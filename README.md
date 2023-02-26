@@ -1,3 +1,3 @@
 # Ordenador-de-Datas
 
-Esse projeto ordena datas informadas da mais velha para mais nova, com a quantidade de datas informada anteriormente.
+Esse projeto ordena as datas informadas da mais velha para mais nova, a quantidade de datas é informada anteriormente.
